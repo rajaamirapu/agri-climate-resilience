@@ -16,13 +16,8 @@ The current prototype focuses on red gram (pigeonpea / Kandulu), particularly du
 - **Species recommendations:** Highlight candidate shelterbelt and nurse-tree species such as Kanuga, neem, palmyrah, and subabul.
 - **Visual advisory dashboard:** Display comparative metrics, tables, and a biophysical explanation of the modeled relationships.
 
-## Technology Stack
-
-- HTML5
-- CSS3
-- Responsive dashboard styling
-- HTML tables and metric cards for scenario comparisons
-
+## Static data from 
+- https://urban-tree-cooling-predictor.ai.studio/
 ## Intended Applications
 
 - Climate-smart agriculture
